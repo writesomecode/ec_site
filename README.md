@@ -6,11 +6,11 @@ EC サイトを作る課題です！
 
 課題があるのでそれを順番に解いていってください。課題には仕様が書いてあるので、それを満たすように開発してください。仕様はあえて曖昧にしています。曖昧なので、決まっていないところは自分で考えて作れるようになっています。ポートフォリオにもしやすいと思います。
 
->> [課題一覧を確認する](https://github.com/writesomecode/ec_site/issues)
+[課題一覧を確認する](https://github.com/writesomecode/ec_site/issues)
 
 コミュニティは以下より参加可能です
 
->> [コミュニティに参加する](https://join.slack.com/t/writesomecode/shared_invite/enQtNTY3MTQ4Nzg1OTU2LTYzYmFhZjAxMDc3OWU0MzVkZmYwOTE1YmFjMDZlOWVmZTg2YjU5ZmU1NjAyY2ZlZGIzNzkyZDlmNmRkMDY3M2Q)
+[コミュニティに参加する](https://join.slack.com/t/writesomecode/shared_invite/enQtNTY3MTQ4Nzg1OTU2LTYzYmFhZjAxMDc3OWU0MzVkZmYwOTE1YmFjMDZlOWVmZTg2YjU5ZmU1NjAyY2ZlZGIzNzkyZDlmNmRkMDY3M2Q)
 
 ## 対象者
 
@@ -22,7 +22,7 @@ EC サイトを作る課題です！
 
 詳しくは以下の記事を読みましょう
 
->> [挫折しない！現役Railsエンジニアが教えるRailsチュートリアル攻略法](https://cohki0305.com/studying/railstutorial)
+[挫折しない！現役Railsエンジニアが教えるRailsチュートリアル攻略法](https://cohki0305.com/studying/railstutorial)
 
 ## 課題を通して勉強できること
 
