@@ -2,9 +2,11 @@
 
 EC サイトを作る課題です！
 
-本当に EC サイトを作るとめっちゃ大変なので、ここまで簡易的なものを作ることを目標にしています。
+本当にちゃんとした EC サイトを 0 から作るとめっちゃ大変なので、ここでは簡易的なものを作ることを目標にしています。
 
 課題があるのでそれを順番に解いていってください。課題には仕様が書いてあるので、それを満たすように開発してください。仕様はあえて曖昧にしています。曖昧なので、決まっていないところは自分で考えて作れるようになっています。ポートフォリオにもしやすいと思います。
+
+[課題一覧を確認する](https://github.com/writesomecode/ec_site/issues)
 
 コミュニティは以下より参加可能です
 
@@ -16,14 +18,18 @@ EC サイトを作る課題です！
    - HTML & CSS, Ruby, Ruby on Rails, Git, Command Line, SQL
 - Rails tutorial を修了している
 
-これらの条件を満たさない人は、Slack の #progate, #railstutorial に参加して勉強しましょう
+これらの条件を満たさない人は、コミュニティの #progate, #railstutorial に参加して勉強しましょう
 
-## 勉強できること
+[コミュニティに参加する](https://join.slack.com/t/writesomecode/shared_invite/enQtNTY3MTQ4Nzg1OTU2LTYzYmFhZjAxMDc3OWU0MzVkZmYwOTE1YmFjMDZlOWVmZTg2YjU5ZmU1NjAyY2ZlZGIzNzkyZDlmNmRkMDY3M2Q)
+
+## 課題を通して勉強できること
 
 - データベースの基本設計
 - Stripe を使った決済機能の実装方法（入門）
 - 有名ライブラリの使い方
 - 画像アップロードの方法
+
+すらすら解けるレベルであれば、それなりに実力がついている状態です！転職できるレベルですね。
 
 ## 勉強する際の注意
 
