@@ -1,4 +1,4 @@
-# EC サイト WriteSomeCode
+# WriteSomeCode EC サイト編
 
 EC サイトを作る課題です！
 
