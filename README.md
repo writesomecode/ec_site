@@ -6,7 +6,7 @@ EC サイトを作る課題です！
 
 課題があるのでそれを順番に解いていってください。課題には仕様が書いてあるので、それを満たすように開発してください。仕様はあえて曖昧にしています。曖昧なので、決まっていないところは自分で考えて作れるようになっています。ポートフォリオにもしやすいと思います。
 
-コミュニティ以下より参加可能です
+コミュニティは以下より参加可能です
 
 [コミュニティに参加する](https://join.slack.com/t/writesomecode/shared_invite/enQtNTY3MTQ4Nzg1OTU2LTYzYmFhZjAxMDc3OWU0MzVkZmYwOTE1YmFjMDZlOWVmZTg2YjU5ZmU1NjAyY2ZlZGIzNzkyZDlmNmRkMDY3M2Q)
 
